@@ -1,10 +1,9 @@
 # MySQL_Amazon
 Amazon-like storefront with up-to-date inventory stock. 
 
-##StoreFront
+## StoreFront
 
 ![Storefront](/images/first.png)
-Format: ![Alt Text](url)
 
 Make a selection from the product list moving arrows up or down. 
 
